@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+/*
+.form-control {
+	min-width: 50%;
+}
+*/
+
+html {
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.div-table {
+	height: 300%;
+	overflow: scroll;
+}
